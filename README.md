@@ -1,6 +1,6 @@
 # Python Game
 
-Tic Tack Toe Python Game
+Tick Tac Toe Python Game
 
 ## Step up
 
