@@ -1,3 +1,4 @@
+#liked ur project doing this for hacktober fest task
 class Cell:
     # Game board cell. Contains player selection.
     def __init__(self, pos_y, pos_x):
